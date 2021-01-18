@@ -1,5 +1,5 @@
 #include "textAnalysis.c"
 
-int inVector(struct strIntDictionaryVector* vec, char* key, int vecSize);
+int inVector(struct strIntDictionaryVector* vec, unsigned char* key, int vecSize);
 
-int strEquals(char* str1, char* str2);
+int strEquals(unsigned char* str1, unsigned char* str2);

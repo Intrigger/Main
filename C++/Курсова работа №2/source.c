@@ -13,7 +13,17 @@
 
 #include <stdio.h>
 #include <stdlib.h>
+#include <math.h>
 #include "textAnalysis.h"
+
+unsigned char *blackList = " ,.!?()-:;";
+
+int inBlackList(unsigned char c){
+	for (int i = 0; i < strlen(blackList); i++){
+		if (blackList[i] == c) return 1;
+	}
+	return 0;
+}
 
 int main(){
 
@@ -28,7 +38,7 @@ int main(){
 	FILE* file;
 	unsigned char symbol;
 
-	if (fopen(fileName, "r") == NULL){
+	if ((file = fopen(fileName, "r")) == NULL){
 		printf("Error opening file!\n");
 		exit(-1);
 	}
@@ -42,29 +52,82 @@ int main(){
 	struct strIntDictionaryVector* vecHead = &vec;
 	struct strIntDictionaryVector* vecC = &vec;
 
-	vecC->element.key = "hello";
-	vecC->element.value = 1;
-	vecC->next = (int*) calloc(1, sizeof(struct strIntDictionaryVector));
-	vecC = vecC->next;
+	struct buf data;
+	struct buf* dataP = &data;
+
+
+	int length = 0;
+
+	while (!feof(file)){
+		length++;
+		dataP->value = getc(file);
+		dataP->next = (struct buf*) calloc(1, sizeof(struct buf));
+		dataP = dataP->next;
+	}
 
 
 
-	vecC->element.key = "hello1";
-	vecC->element.value = 1;
-	vecC->next = (int*) calloc(1, sizeof(struct strIntDictionaryVector));
-	vecC = vecC->next;
+	dataP = &data;
+
+	int current = 0;
+
+	int vecSize = 0;
 
 
+	while (current < length - 1){
+		while (inBlackList(dataP->value) && (current < length - 1)){
+			current++;
+			dataP = dataP->next;
+		}
 
-	vecC->element.key = "hello2";
-	vecC->element.value = 1;
-	vecC->next = (int*) calloc(1, sizeof(struct strIntDictionaryVector));
-	vecC = vecC->next;
+		if (!(current < length - 1)) break;
 
-	char* str1 = "hello3";
-	char* str2 = "hello3";
 
-	printf("%d", strEquals(str1, str2));
+		unsigned char word[50];
+		for (int i  = 0; i < 50; i++) word[i] = 0;
+		int iter = 0;
 
+		while ((!inBlackList(dataP->value)) && (current < length - 1)){
+			word[iter] = dataP->value;
+			dataP = dataP->next;
+			iter++;
+			current++;
+		}
+
+		printf("word: %s", word);
+
+		if (!inVector(vecHead, word, vecSize)){
+			vecSize++;
+			for (int i = 0; i < 50; i++){
+				
+				vecC->element.key[i] = word[i];
+
+			}
+			vecC->next = (struct strIntDictionaryVector*) calloc(1, sizeof(struct strIntDictionaryVector));
+			vecC = vecC->next;
+		}
+
+		printf("\tvecSize: %d\n", vecSize);
+
+	}
+
+
+	printf("vecSize: %d\nz", vecSize);
+
+	vecC = &vec;
+
+	for (int i = 0; i < vecSize; i++){
+		printf("%s\n", vecC->element.key);
+		if (i + 1 < vecSize) vecC = vecC->next;
+	}
+
+	vecC = &vec;
+
+	sortVectorByKey(vecC, vecSize);
+
+	for (int i = 0; i < vecSize; i++){
+		printf("%s\n", vecC->element.key);
+		if (i + 1 < vecSize) vecC = vecC->next;
+	}
 
 }
