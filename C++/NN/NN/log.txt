@@ -1,0 +1,1526 @@
+Epoch # 0
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 1
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 2
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 3
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 4
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 5
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 6
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 7
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 8
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 9
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 10
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 11
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 12
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 13
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 14
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 15
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 16
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 17
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 18
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 19
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 20
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 21
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 22
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 23
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 24
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 25
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 26
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 27
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 28
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 29
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 30
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 31
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 32
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 33
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 34
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 35
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 36
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 37
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 38
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 39
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 40
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 41
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 42
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 43
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 44
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 45
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 46
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 47
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 48
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 49
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 50
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 51
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 52
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 53
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 54
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 55
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 56
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 57
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 58
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 59
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 60
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 61
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 62
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 63
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 64
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 65
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 66
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 67
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 68
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 69
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 70
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 71
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 72
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 73
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 74
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 75
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 76
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 77
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 78
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 79
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 80
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 81
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 82
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 83
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 84
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 85
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 86
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 87
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 88
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 89
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 90
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 91
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 92
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 93
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 94
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 95
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 96
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 97
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 98
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 99
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 100
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 101
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 102
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 103
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 104
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 105
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 106
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 107
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 108
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 109
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 110
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 111
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 112
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 113
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 114
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 115
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 116
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 117
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 118
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 119
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 120
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 121
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 122
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 123
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 124
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 125
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 126
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 127
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 128
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 129
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 130
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 131
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 132
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 133
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 134
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 135
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 136
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 137
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 138
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 139
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 140
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 141
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 142
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 143
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 144
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 145
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 146
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 147
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 148
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 149
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 150
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 151
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 152
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 153
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 154
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 155
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 156
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 157
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 158
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 159
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 160
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 161
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 162
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 163
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 164
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 165
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 166
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 167
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 168
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 169
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 170
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 171
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 172
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 173
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 174
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 175
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 176
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 177
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 178
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 179
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 180
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 181
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 182
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 183
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 184
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 185
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 186
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 187
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 188
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 189
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 190
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 191
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 192
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 193
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 194
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 195
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 196
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 197
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 198
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 199
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 200
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 201
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 202
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 203
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 204
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 205
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 206
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 207
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 208
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 209
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 210
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 211
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 212
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 213
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 214
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 215
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 216
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 217
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 218
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 219
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 220
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 221
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 222
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 223
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 224
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 225
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 226
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 227
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 228
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 229
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 230
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 231
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 232
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 233
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 234
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 235
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 236
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 237
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 238
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 239
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 240
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 241
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 242
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 243
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 244
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 245
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 246
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 247
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 248
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 249
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 250
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 251
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 252
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 253
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 254
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 255
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 256
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 257
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 258
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 259
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 260
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 261
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 262
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 263
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 264
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 265
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 266
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 267
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 268
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 269
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 270
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 271
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 272
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 273
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 274
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 275
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 276
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 277
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 278
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 279
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 280
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 281
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 282
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 283
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 284
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 285
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 286
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 287
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 288
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 289
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 290
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 291
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 292
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 293
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 294
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 295
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 296
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 297
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 298
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 299
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 300
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 301
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 302
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 303
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 304
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 305
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 306
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 307
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 308
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 309
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 310
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 311
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 312
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 313
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 314
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 315
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 316
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 317
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 318
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 319
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 320
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 321
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 322
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 323
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 324
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 325
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 326
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 327
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 328
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 329
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 330
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 331
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 332
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 333
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 334
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 335
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 336
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 337
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 338
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 339
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 340
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 341
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 342
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 343
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 344
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 345
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 346
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 347
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 348
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 349
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 350
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 351
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 352
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 353
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 354
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 355
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 356
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 357
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 358
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 359
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 360
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 361
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 362
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 363
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 364
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 365
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 366
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 367
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 368
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 369
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 370
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 371
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 372
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 373
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 374
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 375
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 376
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 377
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 378
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 379
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 380
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 381
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 382
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 383
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 384
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 385
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 386
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 387
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 388
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 389
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 390
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 391
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 392
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 393
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 394
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 395
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 396
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 397
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 398
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 399
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 400
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 401
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 402
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 403
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 404
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 405
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 406
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 407
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 408
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 409
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 410
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 411
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 412
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 413
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 414
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 415
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 416
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 417
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 418
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 419
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 420
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 421
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 422
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 423
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 424
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 425
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 426
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 427
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 428
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 429
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 430
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 431
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 432
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 433
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 434
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 435
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 436
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 437
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 438
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 439
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 440
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 441
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 442
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 443
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 444
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 445
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 446
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 447
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 448
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 449
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 450
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 451
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 452
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 453
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 454
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 455
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 456
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 457
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 458
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 459
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 460
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 461
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 462
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 463
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 464
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 465
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 466
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 467
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 468
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 469
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 470
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 471
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 472
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 473
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 474
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 475
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 476
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 477
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 478
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 479
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 480
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 481
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 482
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 483
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 484
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 485
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 486
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 487
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 488
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 489
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 490
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 491
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 492
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 493
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 494
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 495
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 496
+Right answers: 0% 	 Max RA: 0(epoch 0 )
+Epoch # 497
+Right answers: 1.92308% 	 Max RA: 0(epoch 0 )
+Epoch # 498
+Right answers: 0% 	 Max RA: 1.92308(epoch 497 )
+Epoch # 499
+Right answers: 0% 	 Max RA: 1.92308(epoch 497 )
+Epoch # 500
+Right answers: 0% 	 Max RA: 1.92308(epoch 497 )
+Epoch # 501
+Right answers: 0% 	 Max RA: 1.92308(epoch 497 )
+Epoch # 502
+Right answers: 0% 	 Max RA: 1.92308(epoch 497 )
+Epoch # 503
+Right answers: 1.92308% 	 Max RA: 1.92308(epoch 497 )
+Epoch # 504
+Right answers: 0% 	 Max RA: 1.92308(epoch 497 )
+Epoch # 505
+Right answers: 1.92308% 	 Max RA: 1.92308(epoch 497 )
+Epoch # 506
+Right answers: 0% 	 Max RA: 1.92308(epoch 497 )
+Epoch # 507
+Right answers: 0% 	 Max RA: 1.92308(epoch 497 )
+Epoch # 508
+Right answers: 0% 	 Max RA: 1.92308(epoch 497 )
+Epoch # 509
+Right answers: 0% 	 Max RA: 1.92308(epoch 497 )
+Epoch # 510
+Right answers: 0% 	 Max RA: 1.92308(epoch 497 )
+Epoch # 511
+Right answers: 0% 	 Max RA: 1.92308(epoch 497 )
+Epoch # 512
+Right answers: 0% 	 Max RA: 1.92308(epoch 497 )
+Epoch # 513
+Right answers: 0% 	 Max RA: 1.92308(epoch 497 )
+Epoch # 514
+Right answers: 0% 	 Max RA: 1.92308(epoch 497 )
+Epoch # 515
+Right answers: 0% 	 Max RA: 1.92308(epoch 497 )
+Epoch # 516
+Right answers: 0% 	 Max RA: 1.92308(epoch 497 )
+Epoch # 517
+Right answers: 0% 	 Max RA: 1.92308(epoch 497 )
+Epoch # 518
+Right answers: 0% 	 Max RA: 1.92308(epoch 497 )
+Epoch # 519
+Right answers: 0% 	 Max RA: 1.92308(epoch 497 )
+Epoch # 520
+Right answers: 0% 	 Max RA: 1.92308(epoch 497 )
+Epoch # 521
+Right answers: 0% 	 Max RA: 1.92308(epoch 497 )
+Epoch # 522
+Right answers: 0% 	 Max RA: 1.92308(epoch 497 )
+Epoch # 523
+Right answers: 0% 	 Max RA: 1.92308(epoch 497 )
+Epoch # 524
+Right answers: 0% 	 Max RA: 1.92308(epoch 497 )
+Epoch # 525
+Right answers: 0% 	 Max RA: 1.92308(epoch 497 )
+Epoch # 526
+Right answers: 0% 	 Max RA: 1.92308(epoch 497 )
+Epoch # 527
+Right answers: 0% 	 Max RA: 1.92308(epoch 497 )
+Epoch # 528
+Right answers: 0% 	 Max RA: 1.92308(epoch 497 )
+Epoch # 529
+Right answers: 0% 	 Max RA: 1.92308(epoch 497 )
+Epoch # 530
+Right answers: 0% 	 Max RA: 1.92308(epoch 497 )
+Epoch # 531
+Right answers: 0% 	 Max RA: 1.92308(epoch 497 )
+Epoch # 532
+Right answers: 0% 	 Max RA: 1.92308(epoch 497 )
+Epoch # 533
+Right answers: 0% 	 Max RA: 1.92308(epoch 497 )
+Epoch # 534
+Right answers: 0% 	 Max RA: 1.92308(epoch 497 )
+Epoch # 535
+Right answers: 0% 	 Max RA: 1.92308(epoch 497 )
+Epoch # 536
+Right answers: 0% 	 Max RA: 1.92308(epoch 497 )
+Epoch # 537
+Right answers: 0% 	 Max RA: 1.92308(epoch 497 )
+Epoch # 538
+Right answers: 0% 	 Max RA: 1.92308(epoch 497 )
+Epoch # 539
+Right answers: 0% 	 Max RA: 1.92308(epoch 497 )
+Epoch # 540
+Right answers: 0% 	 Max RA: 1.92308(epoch 497 )
+Epoch # 541
+Right answers: 0% 	 Max RA: 1.92308(epoch 497 )
+Epoch # 542
+Right answers: 0% 	 Max RA: 1.92308(epoch 497 )
+Epoch # 543
+Right answers: 0% 	 Max RA: 1.92308(epoch 497 )
+Epoch # 544
+Right answers: 0% 	 Max RA: 1.92308(epoch 497 )
+Epoch # 545
+Right answers: 1.92308% 	 Max RA: 1.92308(epoch 497 )
+Epoch # 546
+Right answers: 0% 	 Max RA: 1.92308(epoch 497 )
+Epoch # 547
+Right answers: 1.92308% 	 Max RA: 1.92308(epoch 497 )
+Epoch # 548
+Right answers: 1.92308% 	 Max RA: 1.92308(epoch 497 )
+Epoch # 549
+Right answers: 1.92308% 	 Max RA: 1.92308(epoch 497 )
+Epoch # 550
+Right answers: 1.92308% 	 Max RA: 1.92308(epoch 497 )
+Epoch # 551
+Right answers: 1.92308% 	 Max RA: 1.92308(epoch 497 )
+Epoch # 552
+Right answers: 1.92308% 	 Max RA: 1.92308(epoch 497 )
+Epoch # 553
+Right answers: 1.92308% 	 Max RA: 1.92308(epoch 497 )
+Epoch # 554
+Right answers: 1.92308% 	 Max RA: 1.92308(epoch 497 )
+Epoch # 555
+Right answers: 1.92308% 	 Max RA: 1.92308(epoch 497 )
+Epoch # 556
+Right answers: 3.84615% 	 Max RA: 1.92308(epoch 497 )
+Epoch # 557
+Right answers: 1.92308% 	 Max RA: 3.84615(epoch 556 )
+Epoch # 558
+Right answers: 3.84615% 	 Max RA: 3.84615(epoch 556 )
+Epoch # 559
+Right answers: 1.92308% 	 Max RA: 3.84615(epoch 556 )
+Epoch # 560
+Right answers: 3.84615% 	 Max RA: 3.84615(epoch 556 )
+Epoch # 561
+Right answers: 1.92308% 	 Max RA: 3.84615(epoch 556 )
+Epoch # 562
+Right answers: 3.84615% 	 Max RA: 3.84615(epoch 556 )
+Epoch # 563
+Right answers: 1.92308% 	 Max RA: 3.84615(epoch 556 )
+Epoch # 564
+Right answers: 3.84615% 	 Max RA: 3.84615(epoch 556 )
+Epoch # 565
+Right answers: 1.92308% 	 Max RA: 3.84615(epoch 556 )
+Epoch # 566
+Right answers: 3.84615% 	 Max RA: 3.84615(epoch 556 )
+Epoch # 567
+Right answers: 1.92308% 	 Max RA: 3.84615(epoch 556 )
+Epoch # 568
+Right answers: 1.92308% 	 Max RA: 3.84615(epoch 556 )
+Epoch # 569
+Right answers: 3.84615% 	 Max RA: 3.84615(epoch 556 )
+Epoch # 570
+Right answers: 1.92308% 	 Max RA: 3.84615(epoch 556 )
+Epoch # 571
+Right answers: 3.84615% 	 Max RA: 3.84615(epoch 556 )
+Epoch # 572
+Right answers: 3.84615% 	 Max RA: 3.84615(epoch 556 )
+Epoch # 573
+Right answers: 1.92308% 	 Max RA: 3.84615(epoch 556 )
+Epoch # 574
+Right answers: 3.84615% 	 Max RA: 3.84615(epoch 556 )
+Epoch # 575
+Right answers: 3.84615% 	 Max RA: 3.84615(epoch 556 )
+Epoch # 576
+Right answers: 3.84615% 	 Max RA: 3.84615(epoch 556 )
+Epoch # 577
+Right answers: 3.84615% 	 Max RA: 3.84615(epoch 556 )
+Epoch # 578
+Right answers: 1.92308% 	 Max RA: 3.84615(epoch 556 )
+Epoch # 579
+Right answers: 3.84615% 	 Max RA: 3.84615(epoch 556 )
+Epoch # 580
+Right answers: 5.76923% 	 Max RA: 3.84615(epoch 556 )
+Epoch # 581
+Right answers: 3.84615% 	 Max RA: 5.76923(epoch 580 )
+Epoch # 582
+Right answers: 5.76923% 	 Max RA: 5.76923(epoch 580 )
+Epoch # 583
+Right answers: 5.76923% 	 Max RA: 5.76923(epoch 580 )
+Epoch # 584
+Right answers: 1.92308% 	 Max RA: 5.76923(epoch 580 )
+Epoch # 585
+Right answers: 5.76923% 	 Max RA: 5.76923(epoch 580 )
+Epoch # 586
+Right answers: 5.76923% 	 Max RA: 5.76923(epoch 580 )
+Epoch # 587
+Right answers: 3.84615% 	 Max RA: 5.76923(epoch 580 )
+Epoch # 588
+Right answers: 3.84615% 	 Max RA: 5.76923(epoch 580 )
+Epoch # 589
+Right answers: 5.76923% 	 Max RA: 5.76923(epoch 580 )
+Epoch # 590
+Right answers: 5.76923% 	 Max RA: 5.76923(epoch 580 )
+Epoch # 591
+Right answers: 3.84615% 	 Max RA: 5.76923(epoch 580 )
+Epoch # 592
+Right answers: 7.69231% 	 Max RA: 5.76923(epoch 580 )
+Epoch # 593
+Right answers: 3.84615% 	 Max RA: 7.69231(epoch 592 )
+Epoch # 594
+Right answers: 5.76923% 	 Max RA: 7.69231(epoch 592 )
+Epoch # 595
+Right answers: 3.84615% 	 Max RA: 7.69231(epoch 592 )
+Epoch # 596
+Right answers: 3.84615% 	 Max RA: 7.69231(epoch 592 )
+Epoch # 597
+Right answers: 1.92308% 	 Max RA: 7.69231(epoch 592 )
+Epoch # 598
+Right answers: 3.84615% 	 Max RA: 7.69231(epoch 592 )
+Epoch # 599
+Right answers: 3.84615% 	 Max RA: 7.69231(epoch 592 )
+Epoch # 600
+Right answers: 3.84615% 	 Max RA: 7.69231(epoch 592 )
+Epoch # 601
+Right answers: 3.84615% 	 Max RA: 7.69231(epoch 592 )
+Epoch # 602
+Right answers: 3.84615% 	 Max RA: 7.69231(epoch 592 )
+Epoch # 603
+Right answers: 3.84615% 	 Max RA: 7.69231(epoch 592 )
+Epoch # 604
+Right answers: 3.84615% 	 Max RA: 7.69231(epoch 592 )
+Epoch # 605
+Right answers: 3.84615% 	 Max RA: 7.69231(epoch 592 )
+Epoch # 606
+Right answers: 3.84615% 	 Max RA: 7.69231(epoch 592 )
+Epoch # 607
+Right answers: 3.84615% 	 Max RA: 7.69231(epoch 592 )
+Epoch # 608
+Right answers: 3.84615% 	 Max RA: 7.69231(epoch 592 )
+Epoch # 609
+Right answers: 3.84615% 	 Max RA: 7.69231(epoch 592 )
+Epoch # 610
+Right answers: 5.76923% 	 Max RA: 7.69231(epoch 592 )
+Epoch # 611
+Right answers: 3.84615% 	 Max RA: 7.69231(epoch 592 )
+Epoch # 612
+Right answers: 5.76923% 	 Max RA: 7.69231(epoch 592 )
+Epoch # 613
+Right answers: 7.69231% 	 Max RA: 7.69231(epoch 592 )
+Epoch # 614
+Right answers: 5.76923% 	 Max RA: 7.69231(epoch 592 )
+Epoch # 615
+Right answers: 3.84615% 	 Max RA: 7.69231(epoch 592 )
+Epoch # 616
+Right answers: 5.76923% 	 Max RA: 7.69231(epoch 592 )
+Epoch # 617
+Right answers: 5.76923% 	 Max RA: 7.69231(epoch 592 )
+Epoch # 618
+Right answers: 5.76923% 	 Max RA: 7.69231(epoch 592 )
+Epoch # 619
+Right answers: 5.76923% 	 Max RA: 7.69231(epoch 592 )
+Epoch # 620
+Right answers: 5.76923% 	 Max RA: 7.69231(epoch 592 )
+Epoch # 621
+Right answers: 5.76923% 	 Max RA: 7.69231(epoch 592 )
+Epoch # 622
+Right answers: 3.84615% 	 Max RA: 7.69231(epoch 592 )
+Epoch # 623
+Right answers: 5.76923% 	 Max RA: 7.69231(epoch 592 )
+Epoch # 624
+Right answers: 11.5385% 	 Max RA: 7.69231(epoch 592 )
+Epoch # 625
+Right answers: 13.4615% 	 Max RA: 11.5385(epoch 624 )
+Epoch # 626
+Right answers: 15.3846% 	 Max RA: 13.4615(epoch 625 )
+Epoch # 627
+Right answers: 13.4615% 	 Max RA: 15.3846(epoch 626 )
+Epoch # 628
+Right answers: 15.3846% 	 Max RA: 15.3846(epoch 626 )
+Epoch # 629
+Right answers: 13.4615% 	 Max RA: 15.3846(epoch 626 )
+Epoch # 630
+Right answers: 15.3846% 	 Max RA: 15.3846(epoch 626 )
+Epoch # 631
+Right answers: 3.84615% 	 Max RA: 15.3846(epoch 626 )
+Epoch # 632
+Right answers: 15.3846% 	 Max RA: 15.3846(epoch 626 )
+Epoch # 633
+Right answers: 15.3846% 	 Max RA: 15.3846(epoch 626 )
+Epoch # 634
+Right answers: 5.76923% 	 Max RA: 15.3846(epoch 626 )
+Epoch # 635
+Right answers: 13.4615% 	 Max RA: 15.3846(epoch 626 )
+Epoch # 636
+Right answers: 15.3846% 	 Max RA: 15.3846(epoch 626 )
+Epoch # 637
+Right answers: 15.3846% 	 Max RA: 15.3846(epoch 626 )
+Epoch # 638
+Right answers: 13.4615% 	 Max RA: 15.3846(epoch 626 )
+Epoch # 639
+Right answers: 15.3846% 	 Max RA: 15.3846(epoch 626 )
+Epoch # 640
+Right answers: 17.3077% 	 Max RA: 15.3846(epoch 626 )
+Epoch # 641
+Right answers: 17.3077% 	 Max RA: 17.3077(epoch 640 )
+Epoch # 642
+Right answers: 15.3846% 	 Max RA: 17.3077(epoch 640 )
+Epoch # 643
+Right answers: 17.3077% 	 Max RA: 17.3077(epoch 640 )
+Epoch # 644
+Right answers: 15.3846% 	 Max RA: 17.3077(epoch 640 )
+Epoch # 645
+Right answers: 17.3077% 	 Max RA: 17.3077(epoch 640 )
+Epoch # 646
+Right answers: 15.3846% 	 Max RA: 17.3077(epoch 640 )
+Epoch # 647
+Right answers: 15.3846% 	 Max RA: 17.3077(epoch 640 )
+Epoch # 648
+Right answers: 17.3077% 	 Max RA: 17.3077(epoch 640 )
+Epoch # 649
+Right answers: 15.3846% 	 Max RA: 17.3077(epoch 640 )
+Epoch # 650
+Right answers: 17.3077% 	 Max RA: 17.3077(epoch 640 )
+Epoch # 651
+Right answers: 17.3077% 	 Max RA: 17.3077(epoch 640 )
+Epoch # 652
+Right answers: 15.3846% 	 Max RA: 17.3077(epoch 640 )
+Epoch # 653
+Right answers: 17.3077% 	 Max RA: 17.3077(epoch 640 )
+Epoch # 654
+Right answers: 17.3077% 	 Max RA: 17.3077(epoch 640 )
+Epoch # 655
+Right answers: 17.3077% 	 Max RA: 17.3077(epoch 640 )
+Epoch # 656
+Right answers: 19.2308% 	 Max RA: 17.3077(epoch 640 )
+Epoch # 657
+Right answers: 15.3846% 	 Max RA: 19.2308(epoch 656 )
+Epoch # 658
+Right answers: 13.4615% 	 Max RA: 19.2308(epoch 656 )
+Epoch # 659
+Right answers: 7.69231% 	 Max RA: 19.2308(epoch 656 )
+Epoch # 660
+Right answers: 13.4615% 	 Max RA: 19.2308(epoch 656 )
+Epoch # 661
+Right answers: 17.3077% 	 Max RA: 19.2308(epoch 656 )
+Epoch # 662
+Right answers: 17.3077% 	 Max RA: 19.2308(epoch 656 )
+Epoch # 663
+Right answers: 21.1538% 	 Max RA: 19.2308(epoch 656 )
+Epoch # 664
+Right answers: 19.2308% 	 Max RA: 21.1538(epoch 663 )
+Epoch # 665
+Right answers: 26.9231% 	 Max RA: 21.1538(epoch 663 )
+Epoch # 666
+Right answers: 25% 	 Max RA: 26.9231(epoch 665 )
+Epoch # 667
+Right answers: 19.2308% 	 Max RA: 26.9231(epoch 665 )
+Epoch # 668
+Right answers: 21.1538% 	 Max RA: 26.9231(epoch 665 )
+Epoch # 669
+Right answers: 23.0769% 	 Max RA: 26.9231(epoch 665 )
+Epoch # 670
+Right answers: 26.9231% 	 Max RA: 26.9231(epoch 665 )
+Epoch # 671
+Right answers: 23.0769% 	 Max RA: 26.9231(epoch 665 )
+Epoch # 672
+Right answers: 21.1538% 	 Max RA: 26.9231(epoch 665 )
+Epoch # 673
+Right answers: 25% 	 Max RA: 26.9231(epoch 665 )
+Epoch # 674
+Right answers: 26.9231% 	 Max RA: 26.9231(epoch 665 )
+Epoch # 675
+Right answers: 28.8462% 	 Max RA: 26.9231(epoch 665 )
+Epoch # 676
+Right answers: 21.1538% 	 Max RA: 28.8462(epoch 675 )
+Epoch # 677
+Right answers: 30.7692% 	 Max RA: 28.8462(epoch 675 )
+Epoch # 678
+Right answers: 26.9231% 	 Max RA: 30.7692(epoch 677 )
+Epoch # 679
+Right answers: 28.8462% 	 Max RA: 30.7692(epoch 677 )
+Epoch # 680
+Right answers: 28.8462% 	 Max RA: 30.7692(epoch 677 )
+Epoch # 681
+Right answers: 26.9231% 	 Max RA: 30.7692(epoch 677 )
+Epoch # 682
+Right answers: 32.6923% 	 Max RA: 30.7692(epoch 677 )
+Epoch # 683
+Right answers: 19.2308% 	 Max RA: 32.6923(epoch 682 )
+Epoch # 684
+Right answers: 23.0769% 	 Max RA: 32.6923(epoch 682 )
+Epoch # 685
+Right answers: 19.2308% 	 Max RA: 32.6923(epoch 682 )
+Epoch # 686
+Right answers: 25% 	 Max RA: 32.6923(epoch 682 )
+Epoch # 687
+Right answers: 19.2308% 	 Max RA: 32.6923(epoch 682 )
+Epoch # 688
+Right answers: 28.8462% 	 Max RA: 32.6923(epoch 682 )
+Epoch # 689
+Right answers: 21.1538% 	 Max RA: 32.6923(epoch 682 )
+Epoch # 690
+Right answers: 25% 	 Max RA: 32.6923(epoch 682 )
+Epoch # 691
+Right answers: 26.9231% 	 Max RA: 32.6923(epoch 682 )
+Epoch # 692
+Right answers: 36.5385% 	 Max RA: 32.6923(epoch 682 )
+Epoch # 693
+Right answers: 30.7692% 	 Max RA: 36.5385(epoch 692 )
+Epoch # 694
+Right answers: 32.6923% 	 Max RA: 36.5385(epoch 692 )
+Epoch # 695
+Right answers: 25% 	 Max RA: 36.5385(epoch 692 )
+Epoch # 696
+Right answers: 36.5385% 	 Max RA: 36.5385(epoch 692 )
+Epoch # 697
+Right answers: 34.6154% 	 Max RA: 36.5385(epoch 692 )
+Epoch # 698
+Right answers: 42.3077% 	 Max RA: 36.5385(epoch 692 )
+Epoch # 699
+Right answers: 53.8462% 	 Max RA: 42.3077(epoch 698 )
+Epoch # 700
+Right answers: 57.6923% 	 Max RA: 53.8462(epoch 699 )
+Epoch # 701
+Right answers: 57.6923% 	 Max RA: 57.6923(epoch 700 )
+Epoch # 702
+Right answers: 53.8462% 	 Max RA: 57.6923(epoch 700 )
+Epoch # 703
+Right answers: 65.3846% 	 Max RA: 57.6923(epoch 700 )
+Epoch # 704
+Right answers: 59.6154% 	 Max RA: 65.3846(epoch 703 )
+Epoch # 705
+Right answers: 55.7692% 	 Max RA: 65.3846(epoch 703 )
+Epoch # 706
+Right answers: 51.9231% 	 Max RA: 65.3846(epoch 703 )
+Epoch # 707
+Right answers: 46.1538% 	 Max RA: 65.3846(epoch 703 )
+Epoch # 708
+Right answers: 59.6154% 	 Max RA: 65.3846(epoch 703 )
+Epoch # 709
+Right answers: 57.6923% 	 Max RA: 65.3846(epoch 703 )
+Epoch # 710
+Right answers: 59.6154% 	 Max RA: 65.3846(epoch 703 )
+Epoch # 711
+Right answers: 61.5385% 	 Max RA: 65.3846(epoch 703 )
+Epoch # 712
+Right answers: 53.8462% 	 Max RA: 65.3846(epoch 703 )
+Epoch # 713
+Right answers: 48.0769% 	 Max RA: 65.3846(epoch 703 )
+Epoch # 714
+Right answers: 50% 	 Max RA: 65.3846(epoch 703 )
+Epoch # 715
+Right answers: 57.6923% 	 Max RA: 65.3846(epoch 703 )
+Epoch # 716
+Right answers: 67.3077% 	 Max RA: 65.3846(epoch 703 )
+Epoch # 717
+Right answers: 61.5385% 	 Max RA: 67.3077(epoch 716 )
+Epoch # 718
+Right answers: 59.6154% 	 Max RA: 67.3077(epoch 716 )
+Epoch # 719
+Right answers: 55.7692% 	 Max RA: 67.3077(epoch 716 )
+Epoch # 720
+Right answers: 59.6154% 	 Max RA: 67.3077(epoch 716 )
+Epoch # 721
+Right answers: 59.6154% 	 Max RA: 67.3077(epoch 716 )
+Epoch # 722
+Right answers: 53.8462% 	 Max RA: 67.3077(epoch 716 )
+Epoch # 723
+Right answers: 59.6154% 	 Max RA: 67.3077(epoch 716 )
+Epoch # 724
+Right answers: 44.2308% 	 Max RA: 67.3077(epoch 716 )
+Epoch # 725
+Right answers: 57.6923% 	 Max RA: 67.3077(epoch 716 )
+Epoch # 726
+Right answers: 57.6923% 	 Max RA: 67.3077(epoch 716 )
+Epoch # 727
+Right answers: 71.1538% 	 Max RA: 67.3077(epoch 716 )
+Epoch # 728
+Right answers: 44.2308% 	 Max RA: 71.1538(epoch 727 )
+Epoch # 729
+Right answers: 57.6923% 	 Max RA: 71.1538(epoch 727 )
+Epoch # 730
+Right answers: 61.5385% 	 Max RA: 71.1538(epoch 727 )
+Epoch # 731
+Right answers: 53.8462% 	 Max RA: 71.1538(epoch 727 )
+Epoch # 732
+Right answers: 65.3846% 	 Max RA: 71.1538(epoch 727 )
+Epoch # 733
+Right answers: 61.5385% 	 Max RA: 71.1538(epoch 727 )
+Epoch # 734
+Right answers: 55.7692% 	 Max RA: 71.1538(epoch 727 )
+Epoch # 735
+Right answers: 73.0769% 	 Max RA: 71.1538(epoch 727 )
+Epoch # 736
+Right answers: 69.2308% 	 Max RA: 73.0769(epoch 735 )
+Epoch # 737
+Right answers: 73.0769% 	 Max RA: 73.0769(epoch 735 )
+Epoch # 738
+Right answers: 75% 	 Max RA: 73.0769(epoch 735 )
+Epoch # 739
+Right answers: 61.5385% 	 Max RA: 75(epoch 738 )
+Epoch # 740
+Right answers: 73.0769% 	 Max RA: 75(epoch 738 )
+Epoch # 741
+Right answers: 55.7692% 	 Max RA: 75(epoch 738 )
+Epoch # 742
+Right answers: 67.3077% 	 Max RA: 75(epoch 738 )
+Epoch # 743
+Right answers: 69.2308% 	 Max RA: 75(epoch 738 )
+Epoch # 744
+Right answers: 65.3846% 	 Max RA: 75(epoch 738 )
+Epoch # 745
+Right answers: 53.8462% 	 Max RA: 75(epoch 738 )
+Epoch # 746
+Right answers: 63.4615% 	 Max RA: 75(epoch 738 )
+Epoch # 747
+Right answers: 69.2308% 	 Max RA: 75(epoch 738 )
+Epoch # 748
+Right answers: 67.3077% 	 Max RA: 75(epoch 738 )
+Epoch # 749
+Right answers: 67.3077% 	 Max RA: 75(epoch 738 )
+Epoch # 750
+Right answers: 67.3077% 	 Max RA: 75(epoch 738 )
+Epoch # 751
+Right answers: 67.3077% 	 Max RA: 75(epoch 738 )
+Epoch # 752
+Right answers: 73.0769% 	 Max RA: 75(epoch 738 )
+Epoch # 753
+Right answers: 71.1538% 	 Max RA: 75(epoch 738 )
+Epoch # 754
+Right answers: 84.6154% 	 Max RA: 75(epoch 738 )
+Epoch # 755
+Right answers: 92.3077% 	 Max RA: 84.6154(epoch 754 )
+Epoch # 756
+Right answers: 92.3077% 	 Max RA: 92.3077(epoch 755 )
+Epoch # 757
+Right answers: 88.4615% 	 Max RA: 92.3077(epoch 755 )
+Epoch # 758
+Right answers: 90.3846% 	 Max RA: 92.3077(epoch 755 )
+Epoch # 759
+Right answers: 78.8462% 	 Max RA: 92.3077(epoch 755 )
+Epoch # 760
+Right answers: 86.5385% 	 Max RA: 92.3077(epoch 755 )
+Epoch # 761
+Right answers: 98.0769% 	 Max RA: 92.3077(epoch 755 )
+Epoch # 762
+Right answers: 100% 	 Max RA: 98.0769(epoch 761 )

@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Intrigger\source\repos\NN\NN\Source.cpp(46): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Intrigger\source\repos\NN\NN\Source.cpp(66): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Intrigger\source\repos\NN\NN\Source.cpp(221): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Intrigger\source\repos\NN\NN\Source.cpp(282): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  NN.vcxproj -> C:\Users\Intrigger\source\repos\NN\x64\Debug\NN.exe

@@ -1,0 +1,24 @@
+char s = 's';
+	char s1 = 's';
+	int table_number;
+	int sym_number = 0;
+	int counter_of_symbols = 0;
+	fin.open("C:/Users/Intrigger/Desktop/input.txt");
+	while (s != '|')
+	{
+		s = fin.get();
+		counter_of_symbols++;
+	}
+	cout << "counter = " << counter_of_symbols << endl;
+	char *symbols_str = new char[counter_of_symbols];
+	fin.close();
+	fin.open("C:/Users/Intrigger/Desktop/input.txt");
+	s = 's';
+	int counter = 0;
+	while (s != '|')
+	{
+		s = fin.get();
+		symbols_str[counter] = s;
+		cout << "symbol[" << counter << "] = " << symbols_str[counter] << endl;
+		counter++;
+	}
