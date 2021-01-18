@@ -40,7 +40,7 @@ int main(){
 
 	cout << "Simple encoding program by Intrigger\n";
 
-	cout << "Enter filname: ";
+	cout << "Enter filename: ";
 
 	cin >> filename;
 
