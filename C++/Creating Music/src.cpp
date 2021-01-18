@@ -10,34 +10,48 @@ int main(){
 	fout.open("music", ios::binary);
 	int amplitude = 32000;
 
-	double fr = 261.63;
-	double cof = 1.0594;
+	double fr = 671;
+	double frequency = 44100;
+	int n = 50;
 
-	int a;
+	int N;
 
-	int secondsTime = 24;
+	int notes[8];
 
-	int temp = 2;
+	double cof = 1.059;
 
+	notes[0] = 261.63;					// C		// D
+	notes[1] = notes[0] * pow(cof, 2);// D#
+	notes[2] = notes[0] * pow(cof, 2.5);	// F
+	notes[3] = notes[0] * pow(cof, 4);	// G
+	notes[4] = notes[0] * pow(cof, 5);// G#
+	notes[5] = notes[0] * pow(cof, 5.5);
+	notes[6] = notes[0] * pow(cof, 6.5);
+	notes[7] = notes[0] * pow(cof, 8.5);
+	for (int t = 0; t < 2000; t++){
 
-	int audioFrequency = 44000;
+		fr = notes[rand() % 8];
 
-	for (int i = 0; i < secondsTime*audioFrequency; i++){
-		
-		
-		int v1 = cos(double(i) * 2 * 3.1415 / audioFrequency * fr) * amplitude;
-		
-		if ((i % (audioFrequency / temp) == 0) && (i != 0)){
-			if ((i / audioFrequency) <= (secondsTime / 2)){
-				fr *= pow(cof, 1.0 / temp);
-			}
-			else fr /= pow(cof, 1.0 / temp);
+		N = ceil(frequency / fr * n);
+	
+		for (int i = 0; i < N; i++){
+			int v = sin(double(i) * (6.28318) / frequency * fr) * amplitude;
+			fout.write((const char*)&v, 2);
 		}
 
+		fr = notes[rand() % 8];
 
-		fout.write((const char*) &v1, 2);
+		N = ceil(frequency / fr * n);
+		
+		for (int i = 0; i < N; i++){
+			int v = sin(double(i) * (6.28318) / frequency * fr) * amplitude;
+			fout.write((const char*)&v, 2);
+		}
 	}
+	
 
+
+	fout.close();
 
 	return 0;
 }
