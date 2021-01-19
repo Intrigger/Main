@@ -45,7 +45,7 @@ int strEquals(unsigned char* str1, unsigned char* str2){
 }
 
 
-void sortVectorByKey(struct strIntDictonaryVector* vec, int vecSize){
+void sortVectorByKey(struct strIntDictonaryVector* vec, int vecSize, int ascending){
 
 	if (vecSize == 1) return;
 
@@ -67,7 +67,8 @@ void sortVectorByKey(struct strIntDictonaryVector* vec, int vecSize){
 			char *strRight = vecRight->element.key;
 
 			for (int x = 0; x < 50; x++){
-				if (((int)(strLeft[x]) > (int)(strRight[x])) && (strRight[x] != 0)){
+				if (ascending == 0){
+					if (((int)(strLeft[x]) > (int)(strRight[x])) && (strRight[x] != 0)){
 
 					for (int x1 = 0; x1 < 50; x1++){
 						unsigned char t = strLeft[x1];
@@ -78,10 +79,31 @@ void sortVectorByKey(struct strIntDictonaryVector* vec, int vecSize){
 					vecLeft->element.value = vecRight->element.value;
 					vecRight->element.value = t;
 					break;
+					}
+
+					if (((int)(strLeft[x]) < (int)(strRight[x])) && (strRight[x] != 0)){
+						break;
+					}
 				}
-				if (((int)(strLeft[x]) < (int)(strRight[x])) && (strRight[x] != 0)){
+				else{
+					if (((int)(strLeft[x]) < (int)(strRight[x])) && (strRight[x] != 0)){
+
+					for (int x1 = 0; x1 < 50; x1++){
+						unsigned char t = strLeft[x1];
+						(strLeft)[x1] = (strRight)[x1];
+						(strRight)[x1] = t;
+					}
+					int t = vecLeft->element.value;
+					vecLeft->element.value = vecRight->element.value;
+					vecRight->element.value = t;
 					break;
+					}
+
+					if (((int)(strLeft[x]) > (int)(strRight[x])) && (strRight[x] != 0)){
+						break;
+					}
 				}
+				
 			}
 			if (j + 1 < right) vecRight = vecRight->next;
 		}
@@ -92,12 +114,12 @@ void sortVectorByKey(struct strIntDictonaryVector* vec, int vecSize){
 	}
 
 
-	sortVectorByKey(vec, left);
-	sortVectorByKey(vecRightCopy, right);
+	sortVectorByKey(vec, left, ascending);
+	sortVectorByKey(vecRightCopy, right, ascending);
 
 }
 
-void sortVectorByValue(struct strIntDictonaryVector* vec, int vecSize){
+void sortVectorByValue(struct strIntDictonaryVector* vec, int vecSize, int ascending){
 
 	if (vecSize == 1) return;
 
@@ -116,16 +138,31 @@ void sortVectorByValue(struct strIntDictonaryVector* vec, int vecSize){
 				
 		for (int j = 0; j < right; j++){
 
-			if (vecLeft->element.value > vecRight->element.value){
-				int temp = vecLeft->element.value;
-				vecLeft->element.value = vecRight->element.value;
-				vecRight->element.value = temp;
-				for (int x1 = 0; x1 < 50; x1++){
-					unsigned char t = vecLeft->element.key[x1];
-					vecLeft->element.key[x1] = vecRight->element.key[x1];
-					vecRight->element.key[x1] = t;
+			if (ascending == 0){
+				if (vecLeft->element.value > vecRight->element.value){
+					int temp = vecLeft->element.value;
+					vecLeft->element.value = vecRight->element.value;
+					vecRight->element.value = temp;
+					for (int x1 = 0; x1 < 50; x1++){
+						unsigned char t = vecLeft->element.key[x1];
+						vecLeft->element.key[x1] = vecRight->element.key[x1];
+						vecRight->element.key[x1] = t;
+					}
 				}
 			}
+			else{
+				if (vecLeft->element.value < vecRight->element.value){
+					int temp = vecLeft->element.value;
+					vecLeft->element.value = vecRight->element.value;
+					vecRight->element.value = temp;
+					for (int x1 = 0; x1 < 50; x1++){
+						unsigned char t = vecLeft->element.key[x1];
+						vecLeft->element.key[x1] = vecRight->element.key[x1];
+						vecRight->element.key[x1] = t;
+					}
+				}
+			}
+			
 			if (j + 1 < right) vecRight = vecRight->next;
 		}
 
@@ -135,7 +172,7 @@ void sortVectorByValue(struct strIntDictonaryVector* vec, int vecSize){
 	}
 
 
-	sortVectorByValue(vec, left);
-	sortVectorByValue(vecRightCopy, right);
+	sortVectorByValue(vec, left, ascending);
+	sortVectorByValue(vecRightCopy, right, ascending);
 
 }

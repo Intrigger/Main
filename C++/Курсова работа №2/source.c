@@ -15,9 +15,12 @@
 #include <stdlib.h>	
 #include <math.h>
 #include <ctype.h>
+#include <locale.h>
 #include "textAnalysis.h"
 
-unsigned char *blackList = " ,.!?()-:;«»\"\n";
+unsigned char *blackList = " ,.!?()-:;«»\"\n–'%^&*@#$[]<>|~";
+
+
 
 int inBlackList(unsigned char c){
 	for (int i = 0; i < strlen(blackList); i++){
@@ -27,6 +30,7 @@ int inBlackList(unsigned char c){
 }
 
 int main(){
+
 
 	printf("TEXT ANALYZER v0.1 by Intriger\n\n\n");
 
@@ -46,6 +50,17 @@ int main(){
 	else{
 		printf("File %s opened successfully!\n", fileName);
 	}
+
+
+	int sortBy;	// 0 - key, 1 - value
+	int sortType;	//0 - ascending, 1 - descending 
+
+	printf("Sorting by key(0) or by value(1): ");
+	scanf("%d", &sortBy);
+
+	printf("Sorting ascending(0) or descending(1): ");
+	scanf("%d", &sortType);
+
 
 	printf("Starting analysis...\n");
 
@@ -132,17 +147,42 @@ int main(){
 	}
 
 
+
+
 	printf("vecSize: %d\n", vecSize);
 
-	printf("\nStatystics words: \n\n");
+	printf("\nStatystics about %d words: \n\n", vecSize);
 
 	vecC = &vec;
 
-	sortVectorByValue(vecC, vecSize);
+	if (sortBy == 0){
+		sortVectorByKey(vecC, vecSize, sortType);
+	}
+	else{
+		sortVectorByValue(vecC, vecSize, sortType);
+	}
+	
 
 	for (int i = 0; i < vecSize; i++){
 		printf("%s : %d\n", vecC->element.key, vecC->element.value);
 		if (i + 1 < vecSize) vecC = vecC->next;
 	}
+
+	fclose(file);
+
+	FILE* stats = fopen("stats.txt", "w");
+
+	vecC = &vec;
+
+	fprintf(stats, "Statystics (%d different words): \n", vecSize);
+
+
+	for (int i = 0; i < vecSize; i++){
+
+		fprintf(stats, "%s : %d\n", (vecC->element.key), vecC->element.value);
+		if (i + 1 < vecSize) vecC = vecC->next;
+	}
+
+	fclose(file);
 
 }
