@@ -12,11 +12,12 @@
 */
 
 #include <stdio.h>
-#include <stdlib.h>
+#include <stdlib.h>	
 #include <math.h>
+#include <ctype.h>
 #include "textAnalysis.h"
 
-unsigned char *blackList = " ,.!?()-:;";
+unsigned char *blackList = " ,.!?()-:;«»\"\n";
 
 int inBlackList(unsigned char c){
 	for (int i = 0; i < strlen(blackList); i++){
@@ -60,7 +61,7 @@ int main(){
 
 	while (!feof(file)){
 		length++;
-		dataP->value = getc(file);
+		dataP->value = tolower(getc(file));
 		dataP->next = (struct buf*) calloc(1, sizeof(struct buf));
 		dataP = dataP->next;
 	}
@@ -94,39 +95,53 @@ int main(){
 			current++;
 		}
 
-		printf("word: %s", word);
 
 		if (!inVector(vecHead, word, vecSize)){
+
 			vecSize++;
 			for (int i = 0; i < 50; i++){
-				
 				vecC->element.key[i] = word[i];
-
 			}
+			vecC->element.value = 1;
 			vecC->next = (struct strIntDictionaryVector*) calloc(1, sizeof(struct strIntDictionaryVector));
 			vecC = vecC->next;
 		}
+		else{
+			struct strIntDictionaryVector* vecCCopy = vecC;
 
-		printf("\tvecSize: %d\n", vecSize);
+			vecC = vecHead;
+
+			int cur = 0;
+
+			while (cur < vecSize){
+				if (strEquals(vecC->element.key, word)){
+					vecC->element.value += 1;
+					break;
+				}
+				vecC = vecC->next;
+				cur++;
+			}
+
+
+
+			vecC = vecCCopy;
+
+		}
+
 
 	}
 
 
-	printf("vecSize: %d\nz", vecSize);
+	printf("vecSize: %d\n", vecSize);
+
+	printf("\nStatystics words: \n\n");
 
 	vecC = &vec;
 
-	for (int i = 0; i < vecSize; i++){
-		printf("%s\n", vecC->element.key);
-		if (i + 1 < vecSize) vecC = vecC->next;
-	}
-
-	vecC = &vec;
-
-	sortVectorByKey(vecC, vecSize);
+	sortVectorByValue(vecC, vecSize);
 
 	for (int i = 0; i < vecSize; i++){
-		printf("%s\n", vecC->element.key);
+		printf("%s : %d\n", vecC->element.key, vecC->element.value);
 		if (i + 1 < vecSize) vecC = vecC->next;
 	}
 

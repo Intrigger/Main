@@ -37,9 +37,8 @@ int inVector(struct strIntDictionaryVector* vec, unsigned char* key, int vecSize
 
 //Функция проверена, работает
 int strEquals(unsigned char* str1, unsigned char* str2){				
-	if (strlen(str1) != strlen(str2)) return 0;
 
-	for (int i = 0; i < strlen(str1); i++){
+	for (int i = 0; i < 50; i++){
 		if (str1[i] != str2[i]) return 0;
 	}
 	return 1;
@@ -53,8 +52,7 @@ void sortVectorByKey(struct strIntDictonaryVector* vec, int vecSize){
 	int left = vecSize / 2;
 	int right = vecSize - left;
 
-	printf("Left: %d Right: %d\n", left, right);
-
+	
 	struct strIntDictionaryVector* vecLeft = vec;
 	struct strIntDictionaryVector* vecRight = vec;
 
@@ -64,22 +62,21 @@ void sortVectorByKey(struct strIntDictonaryVector* vec, int vecSize){
 
 	for (int i = 0; i < left; i++){
 		char *strLeft = vecLeft->element.key;
-		printf("\nLeft word: %s\n", strLeft);
-		printf("Right word: ");
+		
 		for (int j = 0; j < right; j++){
 			char *strRight = vecRight->element.key;
-			printf("%s,", strRight);
+
 			for (int x = 0; x < 50; x++){
 				if (((int)(strLeft[x]) > (int)(strRight[x])) && (strRight[x] != 0)){
 
-					printf("%s > %s\t --> ", strLeft, strRight);
-					
 					for (int x1 = 0; x1 < 50; x1++){
 						unsigned char t = strLeft[x1];
 						(strLeft)[x1] = (strRight)[x1];
 						(strRight)[x1] = t;
 					}
-					printf("%s < %s\n", strLeft, strRight);
+					int t = vecLeft->element.value;
+					vecLeft->element.value = vecRight->element.value;
+					vecRight->element.value = t;
 					break;
 				}
 				if (((int)(strLeft[x]) < (int)(strRight[x])) && (strRight[x] != 0)){
@@ -97,5 +94,48 @@ void sortVectorByKey(struct strIntDictonaryVector* vec, int vecSize){
 
 	sortVectorByKey(vec, left);
 	sortVectorByKey(vecRightCopy, right);
+
+}
+
+void sortVectorByValue(struct strIntDictonaryVector* vec, int vecSize){
+
+	if (vecSize == 1) return;
+
+	int left = vecSize / 2;
+	int right = vecSize - left;
+
+	
+	struct strIntDictionaryVector* vecLeft = vec;
+	struct strIntDictionaryVector* vecRight = vec;
+
+
+	for (int i = 0; i < left; i++) vecRight = vecRight->next;
+	struct strIntDictionaryVector* vecRightCopy = vecRight;
+
+	for (int i = 0; i < left; i++){
+				
+		for (int j = 0; j < right; j++){
+
+			if (vecLeft->element.value > vecRight->element.value){
+				int temp = vecLeft->element.value;
+				vecLeft->element.value = vecRight->element.value;
+				vecRight->element.value = temp;
+				for (int x1 = 0; x1 < 50; x1++){
+					unsigned char t = vecLeft->element.key[x1];
+					vecLeft->element.key[x1] = vecRight->element.key[x1];
+					vecRight->element.key[x1] = t;
+				}
+			}
+			if (j + 1 < right) vecRight = vecRight->next;
+		}
+
+		vecRight = vecRightCopy;
+
+		if (i + 1 < left) vecLeft = vecLeft->next;
+	}
+
+
+	sortVectorByValue(vec, left);
+	sortVectorByValue(vecRightCopy, right);
 
 }
