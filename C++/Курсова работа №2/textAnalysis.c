@@ -1,20 +1,31 @@
+//
+//
+// The main file with functions realization
+//
+//
+
+
+//struct for dictionary: its key and the value
 struct strIntDictonary{
 	unsigned char key[50];
 	int value;
 };
 
+
+//vector of dictionary
 struct strIntDictionaryVector{
-	struct strIntDictonary element;
-	struct strIntDictonaryVector* next;
+	struct strIntDictonary element;	//current element
+	struct strIntDictonaryVector* next;	//pointer to the next element
 };
 
+// struct for characters
 struct buf{
 	unsigned char value;
 	struct buf* next;
 };
 
 
-//Функция проверена, работает
+// checking if the string is in vector
 int inVector(struct strIntDictionaryVector* vec, unsigned char* key, int vecSize){
 	while (vecSize--){
 
@@ -35,7 +46,7 @@ int inVector(struct strIntDictionaryVector* vec, unsigned char* key, int vecSize
 }
 
 
-//Функция проверена, работает
+// checking if the strings are equal
 int strEquals(unsigned char* str1, unsigned char* str2){				
 
 	for (int i = 0; i < 50; i++){
@@ -44,7 +55,8 @@ int strEquals(unsigned char* str1, unsigned char* str2){
 	return 1;
 }
 
-
+//sotring the vector by Key
+//sorting ALGO: quicksort by n(log(n))
 void sortVectorByKey(struct strIntDictonaryVector* vec, int vecSize, int ascending){
 
 	if (vecSize == 1) return;
@@ -119,6 +131,8 @@ void sortVectorByKey(struct strIntDictonaryVector* vec, int vecSize, int ascendi
 
 }
 
+//sotring the vector by Value
+//sorting ALGO: quicksort by n(log(n))
 void sortVectorByValue(struct strIntDictonaryVector* vec, int vecSize, int ascending){
 
 	if (vecSize == 1) return;
