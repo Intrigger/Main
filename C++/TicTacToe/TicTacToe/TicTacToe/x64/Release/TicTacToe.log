@@ -1,0 +1,16 @@
+﻿  Source.cpp
+C:\Users\Intrigger\Documents\GitHub\Main\C++\TicTacToe\TicTacToe\TicTacToe\Source.cpp(66,13): warning C4244: инициализация: преобразование "const double" в "float", возможна потеря данных
+C:\Users\Intrigger\Documents\GitHub\Main\C++\TicTacToe\TicTacToe\TicTacToe\Source.cpp(187,8): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Intrigger\Documents\GitHub\Main\C++\TicTacToe\TicTacToe\TicTacToe\Source.cpp(201,28): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Intrigger\Documents\GitHub\Main\C++\TicTacToe\TicTacToe\TicTacToe\Source.cpp(208,9): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Intrigger\Documents\GitHub\Main\C++\TicTacToe\TicTacToe\TicTacToe\Source.cpp(238,11): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Intrigger\Documents\GitHub\Main\C++\TicTacToe\TicTacToe\TicTacToe\Source.cpp(289,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Intrigger\Documents\GitHub\Main\C++\TicTacToe\TicTacToe\TicTacToe\Source.cpp(381,54): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Intrigger\Documents\GitHub\Main\C++\TicTacToe\TicTacToe\TicTacToe\Source.cpp(385,39): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Intrigger\Documents\GitHub\Main\C++\TicTacToe\TicTacToe\TicTacToe\Source.cpp(447,42): warning C4305: аргумент: усечение из "double" в "float"
+  Создание кода
+  1 of 114 functions ( 0.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  TicTacToe.vcxproj -> C:\Users\Intrigger\Documents\GitHub\Main\C++\TicTacToe\TicTacToe\x64\Release\TicTacToe.exe
